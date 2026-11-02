@@ -3,12 +3,14 @@
 A misinformation detector that combines a text classifier (DistilBERT) with
 evidence retrieval from trusted news sources, and explains each verdict in plain language.
 
+```
 ## Project structure
 Fake-News-Detector/
-├── notebooks/   # experiments and model training
-├── backend/     # FastAPI service (planned)
-├── frontend/    # React app (planned)
-└── docs/        # synopsis and reports (planned)
+├── notebooks/        
+├── backend/      
+├── frontend/       
+└── docs/
+```
 
 ## Dataset
 The LIAR dataset: 12.8k short political statements rated by PolitiFact on six levels
