@@ -3,8 +3,8 @@
 A misinformation detector that combines a text classifier (DistilBERT) with
 evidence retrieval from trusted news sources, and explains each verdict in plain language.
 
-```
 ## Project structure
+```
 Fake-News-Detector/
 ├── notebooks/        
 ├── backend/      
